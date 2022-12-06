@@ -8,4 +8,7 @@
     <string name="previous">Previous</string>
     <string name="homepage">security.lauritz-holtmann.de</string>
     <string name="opener_text">A common OAuth / OpenID Connect flaw is to allow arbitrary Schemes for Redirect URIs.\n\nThis simple App showcases that it is possible to obtain OAuth secrets that are sent to com.test.test://*.</string>
+    <string name="auth_request_input">Auth. Request</string>
+    <string name="auth_request_submit_button">Launch URL</string>
+    <string name="auth_request_hint">URL that launches SSO flow</string>
 </resources>
